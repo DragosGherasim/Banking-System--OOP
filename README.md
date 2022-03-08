@@ -1,6 +1,6 @@
 # Banking-System -- OPP | C++
 
-Banking system it is my first project implemented in C++, using the concept of Object Oriented Programming.
+Banking System is my first project implemented in C++, using the concept of Object Oriented Programming.
 
 The access to the bank account is based on *Login* process. For the new users, there is a *Register* option.
 
